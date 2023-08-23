@@ -1,6 +1,6 @@
 # 🌐 Swondi
 
-![Swondi Logo](assets/logo.png)
+![Swondi Logo](/assets/logo.png)
 
 Welcome to **Swondi**, where web dreams morph into digital realities. We're a global tribe, united by our passion for crafting high-quality web applications. Our team spans across continents, drawing the best talents from Florida to England, and all the way to Italy. This diverse blend of cultures, experiences, and perspectives uniquely positions us to deliver unparalleled digital solutions.
 
