@@ -45,4 +45,4 @@ Whether you're a startup seeking to make a mark, a business aiming to expand you
 
 ---
 
-**© Swondi 2023 | Crafting Digital Excellence**
+**© Swondi 2023 | Development by Design**
